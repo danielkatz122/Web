@@ -1,0 +1,23 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;800&display=swap');
+
+body {
+    font-family: 'Assistant', sans-serif;
+    direction: rtl;
+    background-color: ghostwhite;
+}
+
+img {
+    max-width: 100%;
+}
+
+.logo-container {
+    object-fit: cover;
+    width: 50px;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
